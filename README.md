@@ -14,7 +14,7 @@
   <br>
 
   [Тест-кейсы из QASE в формате PDF](https://drive.google.com/file/d/15PgMEeOIfW3h8lIFlaxvejpgsYswNdAD/view?usp=sharing) <br>
- [Тест-кейсы из QASE в формате HTML](https://drive.google.com/file/d/1aRkr_fyjSDe1WxcX290uzBJcyuV3Hze4/view?usp=sharing) 
+
 - ## Баг-репорты
 
   По ссылкам ниже находятся документы связанные с созданием баг-репортов после проверки функционала Регистрации, Авторизации и Каталога продукта.
