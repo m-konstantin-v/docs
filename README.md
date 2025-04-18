@@ -14,7 +14,7 @@
   <br>
 
   [Тест-кейсы](https://app.qase.io/project/TD) <br>
-  [Тест-кейсы из QASE в формате PDF](https://drive.google.com/file/d/15PgMEeOIfW3h8lIFlaxvejpgsYswNdAD/view?usp=sharing) <br>
+  [Тест-кейсы из QASE в формате PDF](https://drive.google.com/file/d/1-7-RhV2_XvTtvhcQPE5zO3lj5U0P5GRk/view?usp=sharing) <br>
 
 - ## Баг-репорты
 
